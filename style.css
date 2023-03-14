@@ -1,4 +1,14 @@
+#conteiner {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
 #carousel-exemplo {
     max-width: 500px;
     max-height: 700px;
 }
+
+#conteiner2 {
+    max-width: 1200px;
+    max-height: 700px;}
