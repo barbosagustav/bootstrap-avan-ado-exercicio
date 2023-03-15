@@ -11,4 +11,6 @@
 
 #conteiner2 {
     max-width: 1200px;
-    max-height: 700px;}
+    max-height: 700px;
+    margin: 20px;
+}
